@@ -1,9 +1,12 @@
 - language:
   idiom: English
+  level: Professional
+- language:
+  idiom: Italian
   level: Native
 - language:
-  idiom: French
-  level: Professional
+  idiom: German
+  level: Basic
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: French
+  level: Basic
