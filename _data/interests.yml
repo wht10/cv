@@ -1,8 +1,11 @@
 - interest:
-  item: Climbing
+  item: Technology
+  link:
+  - interest:
+  item: Travelling
   link:
 - interest:
-  item: Snowboarding
+  item: Sailing
   link:
 - interest:
   item: Cooking
