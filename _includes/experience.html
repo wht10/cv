@@ -16,6 +16,12 @@
 
     </div><!--//meta-->
 
+    {% if experience.advisor %}
+    <div class="advisor">
+      <p>{{ experience.advisor }}</p>
+    </div><!--//advisor-->
+    {% endif %}
+    
     {% if experience.details %}
     <div class="details">
       <p>{{ experience.details }}</p>
