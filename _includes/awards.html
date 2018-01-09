@@ -1,0 +1,25 @@
+{% if site.data.awards %}
+<section class="section awards-section">
+
+  <h2 class="section-title"><i class="fa fa-trophy"></i>Honours and Awards</h2>
+
+  {% for intro in site.data.awards %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
+
+  {% for award in site.data.awards %}
+    <div class="item">
+
+      <span class="award-title"><a href="{{ award.link }}">{{ award.title }}</a></span>
+  
+      {% if award.year %}
+      - <span class="project-tagline">{{ award.year }}</span>
+      {% endif %}
+      
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
