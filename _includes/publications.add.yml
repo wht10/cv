@@ -1,0 +1,37 @@
+{% if site.data.publadd %}
+<section class="section publadd-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Additional Publications</h2>
+
+  {% for intro in site.data.publadd %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
+
+  {% for publadd in site.data.publadd %}
+    <div class="item">
+
+      <span class="publadd-title"><a href="{{ publadd.link }}">{{ publadd.title }}</a></span>
+
+      {% if publadd.authors %}
+      - <span class="publadd-tagline">{{ publadd.authors }}</span>
+      </div><!--//details-->
+      {% endif %}
+      
+      {% if publadd.journal %}
+      <div class="details">
+      <p>{{ publadd.journal }}</p>
+      {% endif %}
+        
+      {% if publadd.details %}
+      <div class="details">
+      <p>{{ publadd.details }}</p>
+       </div><!--//details-->
+      {% endif %}
+      
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
