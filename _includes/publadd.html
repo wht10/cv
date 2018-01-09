@@ -9,24 +9,24 @@
   </div><!--//intro-->
   {% endfor%}
 
-  {% for project in site.data.publadd %}
+  {% for publadd in site.data.publadd %}
     <div class="item">
 
-      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+      <span class="publadd-title"><a href="{{ publadd.link }}">{{ publadd.title }}</a></span>
 
-      {% if project.authors %}
-      - <span class="project-tagline">{{ project.authors }}</span>
+      {% if publadd.authors %}
+      - <span class="publadd-tagline">{{ publadd.authors }}</span>
       </div><!--//details-->
       {% endif %}
       
-      {% if project.journal %}
+      {% if publadd.journal %}
       <div class="details">
-      <p>{{ project.journal }}</p>
+      <p>{{ publadd.journal }}</p>
       {% endif %}
         
-      {% if project.details %}
+      {% if publadd.details %}
       <div class="details">
-      <p>{{ project.details }}</p>
+      <p>{{ publadd.details }}</p>
        </div><!--//details-->
       {% endif %}
       
