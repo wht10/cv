@@ -14,6 +14,24 @@
 
       <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
 
+      {% if project.authors %}
+      <div class="details">
+      <p>{{ project.authors }}</p>
+       </div><!--//details-->
+      {% endif %}
+      
+      {% if project.journal %}
+      <div class="details">
+      <p>{{ project.journal }}</p>
+       </div><!--//details-->
+      {% endif %}
+      
+      {% if project.doi %}
+      <div class="details">
+      <p>{{ project.doi }}</p>
+       </div><!--//details-->
+      {% endif %}
+      
       {% if project.details %}
       <div class="details">
       <p>{{ project.details }}</p>
