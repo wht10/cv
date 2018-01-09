@@ -14,10 +14,7 @@ style: styles-4
 name: Elena Torlai Triglia
 tagline: Postdoctoral Fellow
 pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Molecular Biologist who likes to code. Captivated by multidisciplinary research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states and cancer.'
 
 #sidebar links
 email: elena.torlai-triglia@mdc-berlin.de
