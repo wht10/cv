@@ -15,8 +15,9 @@
       <span class="skill-title"><a href="{{ skill.link }}">{{ skill.title }}</a></span>
 
       {% if skill.details %}
-      - <span class="skill-tagline">{{ skill.details }}</span>
-      </div><!--//details-->
+      <div class="details">
+      <p>{{ skill.details }}</p>
+       </div><!--//details-->
       {% endif %}
       
     </div><!--//item-->
