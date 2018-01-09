@@ -12,10 +12,10 @@
   {% for award in site.data.awards %}
     <div class="item">
 
-      <span class="award-title">{{ award.title }}</span>
+      <span class="award-year">{{ award.year }}</span>
   
-      {% if award.year %}
-      - <span class="project-tagline">{{ award.year }}</span>
+      {% if award.title %}
+      - <span class="project-tagline">{{ award.title }}</span>
       {% endif %}
       
     </div><!--//item-->
