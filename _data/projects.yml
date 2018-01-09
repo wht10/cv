@@ -5,7 +5,9 @@
   link: "#http://onlinelibrary.wiley.com/doi/10.15252/msb.20177754/full"
   authors: "Ferrai C*, TORLAI TRIGLIA E*, Risner-Janiczek JR, Rito T, Rackham OJL, de Santiago I, Kukalev A, Nicodemi M, Akalin A, Li M, Ungless MA, Pombo A."
   journal: "Molecular Systems Biology. 2017. 13:946. - doi: 10.15252/msb.20177754"
-  details: "*Shared first authorship. Selected for Journal Cover and featured in a News and Views article by Rada-Iglesias (MSB, DOI: 10.15252/msb.20177968)"
+  details: "|
+ *Shared first authorship. 
+ Selected for Journal Cover and featured in a News and Views article by Rada-Iglesias (MSB, DOI: 10.15252/msb.20177968)"
 - project:
   title: Flipping between Polycomb repressed and active transcriptional states introduces noise in gene expression
   link: "#https://www.nature.com/articles/s41467-017-00052-2"
