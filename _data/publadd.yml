@@ -1,12 +1,12 @@
 - intro:
   description: "List of non-peer-reviewed publications"
-- project:
+- publadd:
   title: Keep them close: PRC2 poises enhancer promoter interactions at anterior neuronal genes.
   link: "#http://www.sciencedirect.com/science/article/pii/S1934590917301303?via%3Dihub"
   authors: "Caglio G, TORLAI TRIGLIA E, Pombo A."
   journal: "Cell Stem Cell. 2017. 20:573-575. - doi: 10.1016/j.stem.2017.04.006"
   details: "Preview"
-- project:
+- publadd:
   title: A finer print than TADs: PRC1-mediated domains.
   link: "#http://www.cell.com/molecular-cell/abstract/S1097-2765(17)30054-0"
   authors: "TORLAI TRIGLIA E, Rito T, Pombo A." 
