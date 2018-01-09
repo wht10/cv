@@ -18,6 +18,12 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+      {% if project.details %}
+      <div class="details">
+      <p>{{ project.details }}</p>
+       </div><!--//details-->
+      {% endif %}
+      
     </div><!--//item-->
   {% endfor %}
 
