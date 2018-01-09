@@ -15,9 +15,7 @@
       <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
 
       {% if project.authors %}
-      <div class="details">
-      <p>{{ project.authors }}</p>
-       </div><!--//details-->
+      - <span class="project-authors">{{ project.tagline }}</span>
       {% endif %}
       
       {% if project.journal %}
@@ -27,9 +25,7 @@
       {% endif %}
       
       {% if project.doi %}
-      <div class="details">
-      <p>{{ project.doi }}</p>
-       </div><!--//details-->
+      - <span class="project-doi">{{ project.tagline }}</span>
       {% endif %}
       
       {% if project.details %}
