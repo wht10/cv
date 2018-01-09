@@ -1,24 +1,27 @@
 {% if site.data.skills %}
-<section class="skills-section section">
+<section class="section skills-section">
 
-  <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+  <h2 class="section-title"><i class="fa fa-archive"></i>Skills and Techniques</h2>
 
-  <div class="skillset">
+  {% for intro in site.data.skills %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
 
-    {% for skill in site.data.skills %}
+  {% for skill in site.data.skills %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <span class="skill-title"><a href="{{ skill.link }}">{{ skill.title }}</a></span>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+      {% if skill.details %}
+      - <span class="skill-tagline">{{ skill.details }}</span>
+      </div><!--//details-->
+      {% endif %}
+      
 
     </div><!--//item-->
-    {% endfor %}
+  {% endfor %}
 
-  </div>
-
-</section><!--//skills-section-->
+</section><!--//section-->
 {% endif %}
