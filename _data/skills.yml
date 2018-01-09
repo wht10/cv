@@ -1,18 +1,8 @@
+- intro:
+  description: " "
 - skill:
-  name: Molecular & Cell Biology
-  level: 
+  title: Computational
+  details: "Genome-wide data processing (mapping and quality assessment), ChIP-seq, RNA-seq (bulk population and single-cell) data analysis. Programming in Python, R, Shell."
 - skill:
-  name: Python
-  level: 
-- skill:
-  name: R
-  level: 
-- skill:
-  name: ChIP-seq Data analysis
-  level: 
-- skill:
-  name: mRNA-seq (bulk) Data analysis
-  level: 
-- skill:
-  name: mRNA-seq (single-cell) Data analysis
-  level: 
+  title: Experimental
+  details: "Cell culture (mouse embryonic stem cells, human cell lines), western blotting, ChIP, PCR."
