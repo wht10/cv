@@ -2,7 +2,9 @@
   description: " "
 - skill:
   title: Computational
+  link:
   details: "Genome-wide data processing (mapping and quality assessment), ChIP-seq, RNA-seq (bulk population and single-cell) data analysis. Programming in Python, R, Shell."
 - skill:
   title: Experimental
+  link:
   details: "Cell culture (mouse embryonic stem cells, human cell lines), western blotting, ChIP, PCR."
