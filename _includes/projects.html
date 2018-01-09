@@ -15,21 +15,27 @@
       <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
 
       {% if project.authors %}
-      - <span class="project-authors">{{ project.authors }}</span>
+      <div class="details">
+      <p>{{ project.authors }}</p>
+       </div><!--//details-->
       {% endif %}
       
       {% if project.journal %}
-       </div><!--//details-->
+      <div class="details">
       <p>{{ project.journal }}</p>
+       </div><!--//details-->
       {% endif %}
       
       {% if project.doi %}
-      - <span class="project-doi">{{ project.doi }}</span>
+      <div class="details">
+      <p>{{ project.doi }}</p>
+       </div><!--//details-->
       {% endif %}
       
       {% if project.details %}
       <div class="details">
       <p>{{ project.details }}</p>
+       </div><!--//details-->
       {% endif %}
       
     </div><!--//item-->
