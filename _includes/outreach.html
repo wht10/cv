@@ -1,0 +1,25 @@
+{% if site.data.outreach %}
+<section class="section outreach-section">
+
+  <h2 class="section-title"><i class="fa fa-bullhorn"></i>Outreach and Organisation</h2>
+
+  {% for intro in site.data.outreach %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
+
+  {% for skill in site.data.outreach %}
+    <div class="item">
+
+      <span class="project-title">{{ <strong> event.title <strong/>}}</a></span>
+  
+      {% if event.details %}
+      <span class="project-tagline">{{ event.details }}</span>
+      {% endif %}
+      
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
