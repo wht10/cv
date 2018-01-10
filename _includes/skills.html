@@ -12,7 +12,7 @@
   {% for skill in site.data.skills %}
     <div class="item">
 
-      <span class="skill-title"><a href="{{ skill.link }}">{{ skill.title }}</a></span>
+      <span class="project-title">{{ <strong> skill.title <strong/>}}</a></span>
   
       {% if skill.details %}
       - <span class="project-tagline">{{ skill.details }}</span>
