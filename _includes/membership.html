@@ -4,7 +4,7 @@
   <h2 class="container-block-title"> Associations </h2>
 
     <ul class="list-unstyled interests-list">
-      {% for interest in site.data.membership %}
+      {% for member in site.data.membership %}
 
       {% if member.link %}
         <li><a href="{{ member.link }}">{{ member.item }}</a></li>
