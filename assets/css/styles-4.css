@@ -309,4 +309,14 @@ used for profile image
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
-
+.main-wrapper .time-left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  color: #97AAC3;
+  font-weight: 500;
+}
+.right {
+  margin-left: 15%;
+}
