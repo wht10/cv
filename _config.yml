@@ -12,7 +12,7 @@ style: styles-4
 
 #Profile information
 name: Elena <br> <i>Torlai Triglia</i>
-tagline: Postdoctoral Fellow
+tagline: Postdoctoral researcher
 pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Molecular Biologist who likes to code. Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states and cancer.'
 
