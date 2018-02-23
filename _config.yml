@@ -14,7 +14,7 @@ style: styles-4
 name: Elena <br> <i>Torlai Triglia</i>
 tagline: Postdoctoral researcher
 pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Molecular Biologist who likes to code. Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states and cancer.'
+summary: 'Bioinformatician and molecular biologist. PhD from the Humboldt university of Berlin, currently a postdoc at Ana Pombo's lab at the the Berlin Institute for Medical Systems Biology (part of the Max Delbruck Center for Molecular Medicine). Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states.'
 
 #sidebar links
 email: elena.torlai-triglia@mdc-berlin.de
