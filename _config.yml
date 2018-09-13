@@ -14,10 +14,10 @@ style: styles-4
 name: Elena <br> <i>Torlai Triglia</i>
 tagline: Postdoctoral researcher
 pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Computational and molecular biologist. PhD from the Humboldt university of Berlin, currently a postdoc in the lab of Ana Pombo at the Berlin Institute for Medical Systems Biology (@ Max Delbruck Center for Molecular Medicine), working on chromatin regulation and single-cell gene expression. Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states.'
+summary: 'Computational and molecular biologist. Currently a postdoc in the lab of Prof. Aviv Regev at the Broad Institute (Cambridge, MA). Previously, I was a PhD student in the Humboldt university of Berlin, working with Prof. Ana Pombo at the Berlin Institute for Medical Systems Biology (@ Max Delbruck Center for Molecular Medicine). Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states.'
 
 #sidebar links
-email: elena.torlai-triglia@mdc-berlin.de
+email: etorlait@broadinstitute.org
 phone: 
 website:  #do not add http://
 linkedin: elena-torlai-triglia
