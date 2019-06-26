@@ -2,7 +2,7 @@
   description: " "
 - skill:
   title:
-  details: "<strong>Computational </strong> - Genome-wide data processing (mapping and quality assessment), ChIP-seq, RNA-seq (bulk population and single-cell) data analysis. Programming in Python, R, Shell. Working on Unix-based operating systems and cluster environments."
+  details: "<strong>Computational </strong> - Genome-wide data processing (mapping and quality assessment), ChIP-seq, RNA-seq, ATAC-seq (bulk population and single-cell) data analysis. Programming in Python, R, Shell. Working on Unix-based operating systems, cluster and cloud-based environments."
 - skill:
   title:
   details: "<br><strong>Experimental </strong> - Cell culture (mouse embryonic stem cells, human cell lines), western blot, ChIP, PCR, differentiation towards neural precursor cells, single-cell dataset production (Fluidigm)."
