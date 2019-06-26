@@ -1,5 +1,11 @@
 - intro:
   description: " "
+  - project:
+  title: R-Loops Enhance Polycomb Repression at a Subset of Developmental Regulator Genes
+  link: "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(18)31070-0"
+  authors: "Skourti-Stathaki K, <ins>TORLAI TRIGLIA E*</ins>, Warburton M, Voigt P, Bird A, Pombo A"
+  journal: "Mol Cell. 2019 Mar 7;73(5):930-945.e4. doi: 10.1016/j.molcel.2018.12.016"
+  details: 
 - project:
   title: RNA polymerase II primes Polycomb‐repressed developmental genes throughout terminal neuronal differentiation
   link: "http://onlinelibrary.wiley.com/doi/10.15252/msb.20177754/full"
