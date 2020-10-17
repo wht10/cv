@@ -11,18 +11,18 @@ style: styles-4
 #style: styles-6
 
 #Profile information
-name: Elena <br> <i>Torlai Triglia</i>
-tagline: Postdoctoral researcher
+name: Billy <br> <i>Tomaszewski </i>
+tagline: PhD Candidate
 pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Computational and molecular biologist. Currently a postdoc in the lab of Prof. Aviv Regev at the Broad Institute / KCO (Cambridge, MA). Previously, I was a PhD student in the Humboldt university of Berlin, working with Prof. Ana Pombo at the Berlin Institute for Medical Systems Biology (@ Max Delbruck Center for Molecular Medicine). Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states.'
 
 #sidebar links
-email: etorlait@broadinstitute.org
+email: william.tomaszewski@duke.edu
 phone: 
 website:  #do not add http://
 linkedin: elena-torlai-triglia
-github: ElenaTT
-twitter: '@ele_tt'
+github: wht10
+twitter: '@BilltTomski'
 scholar: 9-XWIZIAAAAJ
 orcid: 0000-0002-6059-0116
 #Update all the sections by editing the files inside _data folder.
