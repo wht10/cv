@@ -13,8 +13,8 @@ style: styles-4
 #Profile information
 name: Billy <br> <i>Tomaszewski </i>
 tagline: PhD Candidate
-pic: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Computational and molecular biologist. Currently a postdoc in the lab of Prof. Aviv Regev at the Broad Institute / KCO (Cambridge, MA). Previously, I was a PhD student in the Humboldt university of Berlin, working with Prof. Ana Pombo at the Berlin Institute for Medical Systems Biology (@ Max Delbruck Center for Molecular Medicine). Captivated by multidisciplinary, open research. Interested in gene regulation, epigenetics, single-cell and systems biology. Aiming to improve our understanding of cell states.'
+pic: headshot.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Immunologist with a focus in unravelling the immune contribution to neurological disease by leveraging the advances in systems biology. Currently a PhD Candidate in the labs of Prof. John Sampson and Prof. Michael Gunn at Duke University (Durham, NC). 8 years of cross-disciplinary experience in the field of neuroimmunology has given me a unique perspective on teh complex nature of the field.'
 
 #sidebar links
 email: william.tomaszewski@duke.edu
