@@ -7,12 +7,12 @@
   role: Data Science Certificate
   time: April 2020 - June 2020
   company: HarvardX
-  details: <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
+  details: "Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br>" <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
 - experience:
-  role: PhD student
-  time: Nov 2012 - Dec 2017
-  company: Berlin Institute for Medical Systems Biology - MDC (Berlin, DE)
-  details: "<i>Advisor</i>: Prof. Ana Pombo <br> <i>Project</i>: Interplay between RNAPII and Polycomb during neuronal differentiation"
+  role: Preclinical Safety Assessment Intern
+  time: Jun 2019 - Aug 2019
+  company: Vertex Pharmaceuticals (Boston, MA, USA)
+  details: "<i>Project</i>: Development of High Throughput Electrophysiology Screening for hi-PSC Neurons"
 - experience:
   role: EMBO Short-Term Fellow
   time: Jul - Aug 2013, May & Sep 2016
