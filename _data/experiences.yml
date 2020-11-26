@@ -1,7 +1,7 @@
 - experience:
   role: PhD Candidate
   time: Aug 2016 - present
-  company: Duke Immunology Department / Duke Brain Tumor Immunotherapy Program (Durham, NC, USA)
+  company: Duke Immunology Department / Duke Brain Tumor Immunotherapy Program (Durham, NC)
   details: "<i>Advisors</i>: Prof. John Sampson and Prof. Michael Dee Gunn <br>"
 - experience:
   role: Data Science Certificate
@@ -10,26 +10,22 @@
   details: Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br> <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
 - experience:
   role: Preclinical Safety Assessment Intern
-  time: Jun 2019 - Aug 2019
-  company: Vertex Pharmaceuticals (Boston, MA, USA)
+  time: June 2019 - Aug 2019
+  company: Vertex Pharmaceuticals (Boston, MA)
   details: "<i>Project</i>: Development of High Throughput Electrophysiology Screening for hi-PSC Neurons"
 - experience:
-  role: EMBO Short-Term Fellow
-  time: Jul - Aug 2013, May & Sep 2016
-  company: EMBL-EBI / Sanger Institute (Cambridge, UK)
-  details: "<i>Advisor</i>: Prof. Sarah Teichmann <br> <i>Project</i>: Regulation of single-cell expression via Polycomb during neuronal differentiation"
+  role: Undergraduate Research Assistant
+  time: June 2015 - Jan 2016
+  company: Case Western Reserve University (Cleveland, OH)
+  details: "<i>Advisor</i>: Prof. Alex Huang <br> <i>Project</i>: CDK5 Loss Attenuates PD-L1 Expression in Medulloblastoma"
 - experience:
-  role: Master Student
-  time: Sep 2011 - Sep 2012
-  company: San Raffaele Scientific Institute (Milan, IT)
-  details: "<i>Advisor</i>: Prof. Giovanni Tonon <br> <i>Project</i>: Investigation of the oncogenic mechanism of an histone methyltransferase amplified and overexpressed in different types of cancer"
+  role: Undergraduate Research Assistant
+  time: Oct 2012 - June 2015
+  company: Case Western Reserve University (Cleveland, OH)
+  details: "<i>Advisor</i>: Prof. Jeffrey Capadona <br> <i>Project</i>: Investigating the Role of Neuroinflammation in Brain Machine Interfacing"
 - experience:
-  role: Summer Student
-  time: Jul - Aug 2011
-  company: MRC - Clinical Sciences Centre (London, UK)
-  details: "<i>Advisor</i>: Prof. Enrico Petretto <br> <i>Project</i>: Comparative analyis of gene expression in a rat model of hypertension"
-- experience:
-  role: Summer Student
-  time: Sep 2009
-  company: San Raffaele Scientific Institute (Milan, IT)
-  details: "<i>Advisor</i>: Prof. Giorgio Casari <br> <i>Project</i>: Study of mutations of mitochondrial protease m-AAA in Spino-Cerebellar Ataxia 28"
+  role: Research and Development Intern
+  time: Oct. 2014 - Jun. 2015
+  company: NovelMed Therapeutics (Cleveland, OH)
+  details: "<i>Project</i>: Immunotherapy Drug Development to Target the Alternative Complement Pathway in Orphan Diseases"
+
