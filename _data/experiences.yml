@@ -2,12 +2,12 @@
   role: PhD Candidate
   time: Aug 2016 - present
   company: Duke Immunology Department /<br> Duke Brain Tumor Immunotherapy Program (Durham, NC)
-  details: "<i>Advisors</i>: Prof. John Sampson and Prof. Michael Dee Gunn <br>"
+  details: "<i>Advisors</i>: Prof. John Sampson and Prof. Michael Dee Gunn <br> <i>Project</i>: Disrupted Calcium Signaling Results in Long-term Survival and Checkpoint Blockade Sensitivity in Glioblastoma"
 - experience:
   role: Data Science Certificate
   time: April 2020 - June 2020
   company: HarvardX
-  details: Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br> <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
+  details: <i>Advisor</i>: Prof. Rafael Irizarry <br> Series of online courses that culminated in a Capstone Project where Machine Learning was used to identify community risk factors for early COVID outbreaks in the USA <br> <a href="https://github.com/wht10/COVID_RiskFactor/blob/master/COVID_RiskFactor.pdf">Capstone Project</a>
 - experience:
   role: Preclinical Safety Assessment Intern
   time: June 2019 - Aug 2019
