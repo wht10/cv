@@ -1,32 +1,32 @@
 - intro:
   description: " "
 - project:
-  title: R-Loops Enhance Polycomb Repression at a Subset of Developmental Regulator Genes
-  link: "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(18)31070-0"
-  authors: "Skourti-Stathaki K, <ins>TORLAI TRIGLIA E*</ins>, Warburton M, Voigt P, Bird A, Pombo A"
-  journal: "Mol Cell. 2019 Mar 7;73(5):930-945.e4. doi: 10.1016/j.molcel.2018.12.016"
+  title: Brain Tumor Microenvironment and Host State: Implications for Immunotherapy
+  link: "https://clincancerres.aacrjournals.org/content/25/14/4202"
+  authors: "<ins>Tomaszewski WH</ins>, Sanchez-Perez L, Gajewski TF, Sampson JH"
+  journal: "Clinical Cancer Research. 2019 July. doi: 10.1158/1078-0432.ccr-18-1627"
   details: 
 - project:
-  title: RNA polymerase II primes Polycomb‐repressed developmental genes throughout terminal neuronal differentiation
-  link: "http://onlinelibrary.wiley.com/doi/10.15252/msb.20177754/full"
-  authors: "Ferrai C*, <ins>TORLAI TRIGLIA E*</ins>, Risner-Janiczek JR, Rito T, Rackham OJL, de Santiago I, Kukalev A, Nicodemi M, Akalin A, Li M, Ungless MA, Pombo A."
-  journal: "Molecular Systems Biology. 2017. 13:946. - doi: 10.15252/msb.20177754"
-  details: "*Shared first authorship. <br> Selected for Journal Cover and featured in a News and Views article by Rada-Iglesias (MSB, DOI: 10.15252/msb.20177968)"
-- project:
-  title: <br> Flipping between Polycomb repressed and active transcriptional states introduces noise in gene expression
-  link: "https://www.nature.com/articles/s41467-017-00052-2"
-  authors: "Kar G, Kim JK, Kolodziejczyk AA, Natarajan KN, <ins>TORLAI TRIGLIA E</ins>, Mifsud B, Elderkin S, Marioni JC, Pombo A, Teichmann SA." 
-  journal: "Nature Communications. 2017. 8:36. - doi: 10.1038/s41467-017-00052-2"
+  title: <br> The Role of Toll-Like Receptor 2 and 4 Innate Immunity Pathways in Intracortical Microelectrode-Induced Neuroinflammation
+  link: "https://www.frontiersin.org/articles/10.3389/fbioe.2018.00113/full"
+  authors: "Hermann JK, Lin S, Soffer A, Wong C, Srivastava V, Chang J, Sunil S, Sudhakar S, <ins>Tomaszewski WH</ins>, Protasiewicz G, Selkirk SM, Miller RH, Capadona JR"
+  journal: "Frontiers in Bioengineering and Biotechnology. 2018 August. doi: 10.3389/fbioe.2018.00113"
   details: 
 - project:
-  title: <br> Active and poised promoter states drive folding of the extended HoxB locus in mouse embryonic stem cells
-  link: "https://www.nature.com/articles/nsmb.3402"
-  authors: "Barbieri M, Xie SQ, <ins>TORLAI TRIGLIA E</ins>, Chiariello AM, Bianco S, de Santiago I, Branco MR, Rueda D, Nicodemi M, Pombo A."
-  journal: "Nature Structural and Molecular Biology. 2017. 24:515-524. - doi: 10.1038/nsmb.3402"
+  title: <br> Implications of chronic daily anti-oxidant administration on the inflammatory response to intracortical microelectrodes
+  link: "https://iopscience.iop.org/article/10.1088/1741-2560/12/4/046002"
+  authors: "Potter-Baker KA, Stewart WG, <ins>Tomaszewski WH</ins>, Wong CT, Meador WD, Ziats NP, Capadona JR" 
+  journal: "Journal of Neural Engineering. 2015. doi: 10.1088/1741-2560/12/4/046002"
+  details: 
+- project:
+  title: <br> A comparison of neuroinflammation to implanted microelectrodes in rat and mouse models
+  link: "https://www.sciencedirect.com/science/article/pii/S0142961214003512?via%3Dihub"
+  authors: "Potter-Baker KA, Ravikumar M, Burke AA, Meador WD, Householder KT, Buck AC, Sunil S, Stewart WG, Anna JP, <ins>Tomaszewski WH</ins>, Capadona JR"
+  journal: "Biomaterials. 2014. doi: 10.1016/j.biomaterials.2014.03.076"
   details:
 - project:
-  title: <br> Methylation of RNA Polymerase II non-consensus lysine residues marks early transcription in mammalian cells
-  link: "https://elifesciences.org/articles/11215"
-  authors: "Dias JD, Rito T*, <ins>TORLAI TRIGLIA E*</ins>, Kukalev A, Ferrai C, Chotalia M, Brookes E, Kimura H, Pombo A."
-  journal: "eLife. 2015. 4:e11215. - doi: 10.7554/eLife.11215.001"
-  details: "*Shared co-authorship."
+  title: <br> The effect of residual endotoxin contamination on the neuroinflammatory response to sterilized intracortical microelectrodes
+  link: "https://pubs.rsc.org/en/content/articlelanding/2014/TB/C3TB21453B#!divAbstract"
+  authors: "Ravikumar M, Hageman DJ, <ins>Tomaszewski WH</ins>, Chandra GM, Skousen JL, Capadona JR"
+  journal: "Journal of Materials Chemistry B. 2014. doi: 10.1039/c3tb21453b"
+  details: 
