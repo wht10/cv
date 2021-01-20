@@ -1,5 +1,6 @@
 # Site Settings
 title: "Billy's CV"
+description: Billy Tomaszewski - CV
 url: 'http://webjeda.com'
 baseurl: '/cv' #change it according to your repository name
 
