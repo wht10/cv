@@ -2,7 +2,7 @@
   description: " "
 - skill:
   title:
-  details: "<strong>Computational </strong> - Genome-wide data processing (mapping and quality assessment), ChIP-seq, RNA-seq, ATAC-seq (bulk population and single-cell) data analysis. Programming in Python, R, Shell. Working on Unix-based operating systems, cluster and cloud-based environments."
+  details: "<strong>Experimental </strong> - Flow cytometry (15-color), ELISA development, Immunohistochemistry, Fluorescence microscopy, Chromogenic assays, Transwell migration assay, PCR, qRT-PCR, Proliferation assay, Neuron and Astrocyte hiPSC culture systems, Cerebral Organoid systems, in-vitro Electrophysiology, Pipetting Automation, Liquid Handling, AAV and Lentivirus Expression Systems, Animal handling (rodents), Tumorigenicity, Transcardial Perfusion, Adoptive Transfer, Bone Marrow Chimera Generation, Stereotactic Intracranial Injection, Biodistribution assays, Bioluminescence for Tumor Progression"
 - skill:
   title:
-  details: "<br><strong>Experimental </strong> - Cell culture (mouse embryonic stem cells, human cell lines), western blot, ChIP, PCR, differentiation towards neural precursor cells, single-cell dataset production (Fluidigm)."
+  details: "<br><strong>Computational </strong> - FlowJo, Autodesk, Graphpad PRISM, MATLAB, Imaris, FIJI, Inkscape, Endnote, Machine Learning - R, Data Visualization – R, Linear Regression – R, Data Wrangling – R, Statistical Probability and Inference - R, RNA-seq Alignment - STAR, Cluster Computing, Differential Expression, Pathway Analysis, scRNAseq Alignment - CellRanger, Seurat"
