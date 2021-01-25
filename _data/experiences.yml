@@ -24,13 +24,12 @@
   company: Case Western Reserve University (Cleveland, OH)
   details: "<i>Advisor</i>: Prof. Alex Huang <br> <i>Project</i>: CDK5 Loss Attenuates PD-L1 Expression in Medulloblastoma"
 - experience:
-  role: Undergraduate Research Assistant
-  time: Oct 2012 - June 2015
-  company: Case Western Reserve University (Cleveland, OH)
-  details: "<i>Advisor</i>: Prof. Jeffrey Capadona <br> <i>Project</i>: Investigating the Role of Neuroinflammation in Brain Machine Interfacing"
-- experience:
   role: Research and Development Intern
   time: Oct. 2014 - Jun. 2015
   company: NovelMed Therapeutics (Cleveland, OH)
   details: "<i>Project</i>: Immunotherapy Drug Development to Target the Alternative Complement Pathway in Orphan Diseases"
-
+- experience:
+  role: Undergraduate Research Assistant
+  time: Oct 2012 - June 2015
+  company: Case Western Reserve University (Cleveland, OH)
+  details: "<i>Advisor</i>: Prof. Jeffrey Capadona <br> <i>Project</i>: Investigating the Role of Neuroinflammation in Brain Machine Interfacing"
