@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Targeting Immunometabolism in Glioblastoma
+  link: "https://www.frontiersin.org/articles/10.3389/fonc.2021.696402/full"
+  authors: "Mohan AA, <ins>Tomaszewski WH</ins>, Haskell-Mendoza AP, Hotchkiss KM, Singh K, Reedy JL, Fecci PE, Sampson JH, Khasraw M"
+  journal: "Frontiers in Oncology. 2021 June. doi:10.3389/fonc.2021.696402"
+  details: 
+- project:
   title: Brain Tumor Microenvironment and Host State Implications for Immunotherapy
   link: "https://clincancerres.aacrjournals.org/content/25/14/4202"
   authors: "<ins>Tomaszewski WH</ins>, Sanchez-Perez L, Gajewski TF, Sampson JH"
