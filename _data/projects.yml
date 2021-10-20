@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Broad immunophenotyping of the murine brain tumor microenvironment
+  link: "https://www.sciencedirect.com/science/article/pii/S0022175921002039?ref=cra_js_challenge&fr=pjs"
+  authors: "<ins>Tomaszewski WH</ins>, Waibl-Polania J, Miggelbrink AM, Chakrabortya MA, Fecci PE, Sampson JH, Gunn MD"
+  journal: "Journal of Immunological Methods. 2021 September. doi: 10.1016/j.jim.2021.113158"
+  details: 
+- project:
   title: Targeting Immunometabolism in Glioblastoma
   link: "https://www.frontiersin.org/articles/10.3389/fonc.2021.696402/full"
   authors: "Mohan AA, <ins>Tomaszewski WH</ins>, Haskell-Mendoza AP, Hotchkiss KM, Singh K, Reedy JL, Fecci PE, Sampson JH, Khasraw M"
