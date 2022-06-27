@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Glioma progression is shaped by genetic evolution and microenvironmental interactions
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S0092867422005360#undfig1"
+  authors: "The GLASS Consortium (contributor)"
+  journal: "Cell. 2022 June. doi: 10.1016/j.cell.2022.04.038"
+  details: 
+- project:
   title: Broad immunophenotyping of the murine brain tumor microenvironment
   link: "https://www.sciencedirect.com/science/article/pii/S0022175921002039?ref=cra_js_challenge&fr=pjs"
   authors: "<ins>Tomaszewski WH</ins>, Waibl-Polania J, Miggelbrink AM, Chakrabortya MA, Fecci PE, Sampson JH, Gunn MD"
