@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Neuronal CaMKK2 promotes immunosuppression and checkpoint blockade resistance in glioblastoma
+  link: "https://www.nature.com/articles/s41467-022-34175-y"
+  authors: "<ins>Tomaszewski WH</ins>, Waibl-Polania J, Chakrabortya M, Perera J, Ratiu J,  Miggelbrink A, McDonnell DP, Khasraw M, Ashley DM, Fecci PE, Racioppi L, Sanchez-Perez L, Gunn MD, Sampson JH"
+  journal: "Nature Communications. 2022 October. doi: 10.1038/s41467-022-34175-y"
+  details: 
+- project:
   title: Glioma progression is shaped by genetic evolution and microenvironmental interactions
   link: "https://www.sciencedirect.com/science/article/abs/pii/S0092867422005360#undfig1"
   authors: "The GLASS Consortium (contributor)"
