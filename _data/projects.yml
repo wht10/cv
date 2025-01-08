@@ -1,6 +1,18 @@
 - intro:
   description: " "
 - project:
+  title: Antigen presentation by tumor-associated macrophages drives T cells from a progenitor exhaustion state to terminal exhaustion
+  link: "https://www.sciencedirect.com/science/article/pii/S1074761324005417?via%3Dihub"
+  authors: "Waibl-Polania J, Hoyt-Miggelbrink A, <ins>Tomaszewski WH</ins>, Wachsmuth LP, Lorrey SJ, Wilkinson DS, Lerner E, Woroniecka K, Finlay JB, Ayasoufi K, Fecci PE"
+  journal: "Immunity. 2024 December. doi: 10.1016/j.immuni.2024.11.026"
+  details: 
+- project:
+  title: CD8+ T cells maintain killing of MHC-I-negative tumor cells through the NKG2D–NKG2DL axis
+  link: "https://www.nature.com/articles/s43018-023-00600-4"
+  authors: "Lerner EC, Woroniecka KI, D'Anniballe VM, Wilkinson DS, Mohan AA, Lorrey SJ, Waibl-Polania J, Wachsmuth LP, Miggelbrink AM, Jackson JD, Cui X, Raj JA, <ins>Tomaszewski WH</ins>, Cook SL, Sampson JH, Patel AP, Khasraw M, Gunn MD, Fecci PE"
+  journal: "Nature Cancer. 2023 August. doi: 10.1038/s43018-023-00600-4"
+  details: 
+- project:
   title: Neuronal CaMKK2 promotes immunosuppression and checkpoint blockade resistance in glioblastoma
   link: "https://www.nature.com/articles/s41467-022-34175-y"
   authors: "<ins>Tomaszewski WH</ins>, Waibl-Polania J, Chakrabortya M, Perera J, Ratiu J,  Miggelbrink A, McDonnell DP, Khasraw M, Ashley DM, Fecci PE, Racioppi L, Sanchez-Perez L, Gunn MD, Sampson JH"
