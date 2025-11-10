@@ -1,6 +1,12 @@
 - intro:
   description: " "
 - project:
+  title: Restriction of innate Tγδ17 cell plasticity by an AP-1 regulatory axis
+  link: "https://www.nature.com/articles/s41590-025-02206-7"
+  authors: "Parker ME, Meta NU, Liao T-C, <ins>Tomaszewski WH</ins>, Snyder SA, Busch J, Ciofani M"
+  journal: "Nature Immunology. 2025 June. doi: 10.1038/s41590-025-02206-7"
+  details: 
+- project:
   title: Antigen presentation by tumor-associated macrophages drives T cells from a progenitor exhaustion state to terminal exhaustion
   link: "https://www.sciencedirect.com/science/article/pii/S1074761324005417?via%3Dihub"
   authors: "Waibl-Polania J, Hoyt-Miggelbrink A, <ins>Tomaszewski WH</ins>, Wachsmuth LP, Lorrey SJ, Wilkinson DS, Lerner E, Woroniecka K, Finlay JB, Ayasoufi K, Fecci PE"
